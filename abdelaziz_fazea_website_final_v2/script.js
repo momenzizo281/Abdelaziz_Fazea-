@@ -1,1 +1,0 @@
-document.querySelectorAll('.contact-info a').forEach(a=>a.addEventListener('click',()=>{}));
